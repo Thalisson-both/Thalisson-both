@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Thalisson-both
 - 👀 I’m interested in learn new languages
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on that I can help and know hahaha
 - 📫 How to reach me @thalisson_both
 
 <!---
