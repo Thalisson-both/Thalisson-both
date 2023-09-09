@@ -1,9 +1,29 @@
-- 👋 Hi, I’m @Thalisson-both
-- 👀 I’m interested in learn new languages
-- 🌱 I’m currently learning HTML
-- 📫 How to reach me @thalisson_both
 
-<!---
-Thalisson-both/Thalisson-both is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Meu Repositório GitHub
+
+Este é o meu repositório GitHub onde compartilho projetos e código. Sinta-se à vontade para explorar e colaborar. 
+
+## 🚀 Sobre mim
+- Analista e Desenvolvedor de sistemas pela Estácio de Sá.
+- Desenvolvedor full stack em formação pela Ebac.
+- Entusiasta em ciber segurança 
+
+
+## 🛠 Habilidades
+Javascript, HTML, CSS, Git, Linux, C++.
+
+
+
+
+## Projetos Destacados
+
+- [recriando-wikip-dia ](projeto1/): Desenvolvimento de pagina principal do Wikipedia com um serie de respeito.
+- [site_gamesshop](projeto2/): Criação da pagina inicial de uma pagina de loja de jogos simulando um cliente real.
+
+
+
+
+
+
+
+
